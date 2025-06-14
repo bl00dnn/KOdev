@@ -1,4 +1,4 @@
-package ru.hspm.kodev
+package ru.hspm.kodev.auth
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import ru.hspm.kodev.menu.ProfileActivity
 import ru.hspm.kodev.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {

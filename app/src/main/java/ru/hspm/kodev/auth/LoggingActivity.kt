@@ -1,4 +1,4 @@
-package ru.hspm.kodev
+package ru.hspm.kodev.auth
 
 import android.content.Intent
 import android.content.SharedPreferences
@@ -9,14 +9,16 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
-import ru.hspm.kodev.databinding.ActivityLogginBinding
+import ru.hspm.kodev.databinding.ActivityLoggingBinding
 import android.content.res.Configuration
 import androidx.appcompat.app.AppCompatDelegate
+import ru.hspm.kodev.menu.ProfileActivity
+import ru.hspm.kodev.R
 import java.util.*
 
 class LoggingActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityLogginBinding
+    private lateinit var binding: ActivityLoggingBinding
     private lateinit var auth: FirebaseAuth
     private lateinit var sharedPref: SharedPreferences
     private var currentLanguage = "en"
@@ -32,7 +34,7 @@ class LoggingActivity : AppCompatActivity() {
 
 
         super.onCreate(savedInstanceState)
-        binding = ActivityLogginBinding.inflate(layoutInflater)
+        binding = ActivityLoggingBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         // Инициализация Firebase Auth

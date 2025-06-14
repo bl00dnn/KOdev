@@ -16,7 +16,7 @@
             android:name=".SettingsActivity"
             android:exported="false" />
         <activity
-            android:name=".LoggingActivity"
+            android:name=".auth.LoggingActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,13 +25,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Pro"
+            android:name=".menu.ProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".RegisterActivity"
+            android:name=".auth.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name=".ResetPasswordActivity"
+            android:name=".auth.ResetPasswordActivity"
             android:exported="false" />
     </application>
 

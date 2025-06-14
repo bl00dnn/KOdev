@@ -1,4 +1,4 @@
-package ru.hspm.kodev
+package ru.hspm.kodev.auth
 
 import android.os.Bundle
 import android.view.View
@@ -52,7 +52,7 @@ class ResetPasswordActivity : AppCompatActivity() {
                 } else {
                     Toast.makeText(
                         this,
-                        "Ошибка: ${task.exception?.message}",
+                        "Error: ${task.exception?.message}",
                         Toast.LENGTH_LONG
                     ).show()
                 }
