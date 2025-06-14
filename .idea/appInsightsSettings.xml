@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="ru.hspm.kodev" />
+                  <option name="mobileSdkAppId" value="1:380449762707:android:c738ae1fa0589eeeaa8c66" />
+                  <option name="projectId" value="kodev-of" />
+                  <option name="projectNumber" value="380449762707" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

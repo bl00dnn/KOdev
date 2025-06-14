@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380449762707",
+    "project_id": "kodev-of",
+    "storage_bucket": "kodev-of.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380449762707:android:c738ae1fa0589eeeaa8c66",
+        "android_client_info": {
+          "package_name": "ru.hspm.kodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKGqTrPprJztapW8WE92CAVJgNMWp2tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
