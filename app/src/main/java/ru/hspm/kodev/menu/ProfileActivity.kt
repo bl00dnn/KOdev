@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.firebase.auth.FirebaseAuth
 import ru.hspm.kodev.R
-import ru.hspm.kodev.SettingsActivity
+import ru.hspm.kodev.profile_button.SettingsActivity
 import ru.hspm.kodev.auth.LoggingActivity
 import ru.hspm.kodev.databinding.ActivityProfileBinding
 

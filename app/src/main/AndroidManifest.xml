@@ -48,7 +48,7 @@
 
         <!--        profile button-->
         <activity
-            android:name=".SettingsActivity"
+            android:name=".profile_button.SettingsActivity"
             android:exported="false" />
 
 
