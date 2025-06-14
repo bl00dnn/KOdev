@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KOdev</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_the_password">Confirm the password</string>
+    <string name="login_button">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_account">Create account</string>
+    <string name="light_theme">Light theme</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="register_button">Register</string>
+    <string name="language_button">RU</string>
+    <string name="exit_button">Exit</string>
+    <string name="text_welcome">Welcome!</string>
+    <string name="text_resetpassword">Reset password</string>
+    <string name="send_instructions_button">Send instructions</string>
+    <string name="infoForResetPassword_text">Enter your email address to receive a password reset link.</string>
+    <string name="registration_text">Registration</string>
+    <string name="profile_text">Profile</string>
+    <string name="settings_text">Settings</string>
+    <string name="payment_method_text">Payment method</string>
+    <string name="home_menu_text">Home</string>
+    <string name="order_menu_text">Order</string>
+    <string name="notification_menu_text">Notification</string>
+    <string name="save_button">Save</string>
+    <string name="nameText">Name</string>
+    <string name="lastNameText">Last Name</string>
+</resources>

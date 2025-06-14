@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KOdev</string>
+    <string name="email_hint">Почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="confirm_the_password">Подтвердить пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="light_theme">Светлая тема</string>
+    <string name="dark_theme">Тёмная темма</string>
+    <string name="register_button">Регистрация</string>
+    <string name="language_button">EN</string>
+    <string name="exit_button">Выход</string>
+    <string name="text_welcome">Добро пожаловать!</string>
+    <string name="text_resetpassword">Сбросить пароль</string>
+    <string name="send_instructions_button">Отправить инструкцию</string>
+    <string name="infoForResetPassword_text">Введите свой адрес электронной почты, чтобы получить ссылку для сброса пароля.</string>
+    <string name="registration_text">Регистрация</string>
+    <string name="profile_text">Профиль</string>
+    <string name="settings_text">Настройки</string>
+    <string name="payment_method_text">Способ оплаты</string>
+    <string name="home_menu_text">Главня</string>
+    <string name="order_menu_text">Заказ</string>
+    <string name="notification_menu_text">Уведомления</string>
+    <string name="save_button">Сохранить</string>
+    <string name="nameText">Имя</string>
+    <string name="lastNameText">Фамилия</string>
+</resources>
