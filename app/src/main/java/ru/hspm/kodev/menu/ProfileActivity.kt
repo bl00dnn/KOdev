@@ -10,7 +10,9 @@ import com.google.firebase.auth.FirebaseAuth
 import ru.hspm.kodev.R
 import ru.hspm.kodev.profile_button.SettingsActivity
 import ru.hspm.kodev.auth.LoggingActivity
+import ru.hspm.kodev.auth.ResetPasswordActivity
 import ru.hspm.kodev.databinding.ActivityProfileBinding
+import ru.hspm.kodev.profile_button.PaymentMethodActivity
 
 class ProfileActivity : AppCompatActivity() {
 
@@ -63,9 +65,19 @@ class ProfileActivity : AppCompatActivity() {
             }
         }
 
+        // Обработчик кнопки способ оплаты
+        binding.paymentMethodButton.setOnClickListener {
+            startActivity(Intent(this, PaymentMethodActivity::class.java))
+        }
+
         // Обработчик кнопки настроек
         binding.settingsButton.setOnClickListener {
             startActivity(Intent(this, SettingsActivity::class.java))
+        }
+
+        // Обработчик кнопки сброс пароля
+        binding.changePasswordButton.setOnClickListener {
+            startActivity(Intent(this, ResetPasswordActivity::class.java))
         }
 
         // Обработчик кнопки выхода
