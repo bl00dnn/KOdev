@@ -21,7 +21,7 @@
     <string name="payment_method_text">Payment method</string>
     <string name="home_menu_text">Home</string>
     <string name="order_menu_text">Order</string>
-    <string name="notification_menu_text">Notification</string>
+    <string name="notification_menu_text">Notifications</string>
     <string name="save_button">Save</string>
     <string name="nameText">Name</string>
     <string name="lastNameText">Last Name</string>

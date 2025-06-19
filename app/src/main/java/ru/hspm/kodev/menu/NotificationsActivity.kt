@@ -24,7 +24,7 @@ class NotificationsActivity : AppCompatActivity() {
         bottomNav.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_home -> {
-                    startActivity(Intent(this, NotificationsActivity::class.java))
+                    startActivity(Intent(this, MainActivity::class.java))
                     overridePendingTransition(0, 0)
                     finish()
                     true

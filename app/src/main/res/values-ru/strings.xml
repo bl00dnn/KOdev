@@ -19,7 +19,7 @@
     <string name="profile_text">Профиль</string>
     <string name="settings_text">Настройки</string>
     <string name="payment_method_text">Способ оплаты</string>
-    <string name="home_menu_text">Главня</string>
+    <string name="home_menu_text">Главная</string>
     <string name="order_menu_text">Заказ</string>
     <string name="notification_menu_text">Уведомления</string>
     <string name="save_button">Сохранить</string>
