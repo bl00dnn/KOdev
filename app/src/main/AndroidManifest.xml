@@ -16,9 +16,10 @@
             android:name=".profile_button.PaymentMethodActivity"
             android:exported="false" />
         <activity
-            android:name=".profile_button.SettingsActivity2"
+            android:name=".profile_button.SettingsActivity"
             android:exported="false"
-            android:label="@string/title_activity_settings2" /> <!-- auth -->
+            android:configChanges="locale|layoutDirection"
+            android:theme="@style/Theme.KOdev" />
         <activity
             android:name=".auth.LoggingActivity"
             android:exported="true">
@@ -45,9 +46,6 @@
             android:exported="false" />
         <activity
             android:name=".menu.ProfileActivity"
-            android:exported="false" /> <!-- profile button -->
-        <activity
-            android:name=".profile_button.SettingsActivity"
             android:exported="false" />
     </application>
 

@@ -25,4 +25,24 @@
     <string name="save_button">Сохранить</string>
     <string name="nameText">Имя</string>
     <string name="lastNameText">Фамилия</string>
+    <string name="user_not_authorized">Пользователь не авторизован</string>
+    <string name="error_user_data">Ошибка данных пользователя</string>
+    <string name="error_account_not_found">Аккаунт не найден</string>
+    <string name="error_load_data">Ошибка загрузки данных</string>
+    <string name="logout_message">Вы будете выведены из системы</string>
+    <string name="logout_title">Выход из аккаунта</string>
+    <string name="logout_confirmation">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="language">Язык</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+    <string name="personal_data">Персональные данные</string>
+    <string name="app_settings">Настройки приложения</string>
+    <string name="theme">Тема</string>
+    <string name="system_theme">Системная тема</string>
+    <string name="fill_all_fields">Заполните все поля</string>
+    <string name="personal_data_saved">Данные сохранены</string>
+    <string name="error_saving_data">Ошибка сохранение данных</string>
+    <string name="settings_saved_restart">Настройки сохранены. Применятся после перезапуска</string>
 </resources>

@@ -50,4 +50,24 @@
     <string name="attachment_summary_on">Automatically download attachments for incoming emails
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="user_not_authorized">The user is not logged in</string>
+    <string name="error_user_data">User data error</string>
+    <string name="error_account_not_found">Account not found</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout_title">Log out of your account</string>
+    <string name="logout_message">You will be logged out</string>
+    <string name="error_load_data">Data upload error</string>
+    <string name="logout_confirmation">Are you sure you want to get out?</string>
+    <string name="language">Language</string>
+    <string name="russian">Russian</string>
+    <string name="english">Еnglish</string>
+    <string name="personal_data">Personal data</string>
+    <string name="app_settings">App Settings</string>
+    <string name="theme">Theme</string>
+    <string name="system_theme">System theme</string>
+    <string name="fill_all_fields">Fill all fields</string>
+    <string name="personal_data_saved">Personal data saved</string>
+    <string name="error_saving_data">Error saving data</string>
+    <string name="settings_saved_restart">Setting saved after restart</string>
 </resources>
