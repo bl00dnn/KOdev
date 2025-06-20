@@ -5,6 +5,7 @@
     <color name="orange_light">#FFCCBC</color>
     <color name="dark_gray">#212121</color>
     <color name="dark_gray_light">#3A3A3A</color>
+    <color name="unread_notification_bg">#E3F2FD</color>
 
     <!-- Оранжевые цвета -->
     <color name="orange_500">#FF6F00</color>

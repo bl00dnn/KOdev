@@ -25,6 +25,27 @@
     <string name="save_button">Save</string>
     <string name="nameText">Name</string>
     <string name="lastNameText">Last Name</string>
+    <string name="user_not_authorized">The user is not logged in</string>
+    <string name="error_user_data">User data error</string>
+    <string name="error_account_not_found">Account not found</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout_title">Log out of your account</string>
+    <string name="logout_message">You will be logged out</string>
+    <string name="error_load_data">Data upload error</string>
+    <string name="logout_confirmation">Are you sure you want to get out?</string>
+    <string name="language">Language</string>
+    <string name="russian">Russian</string>
+    <string name="english">Еnglish</string>
+    <string name="personal_data">Personal data</string>
+    <string name="app_settings">App Settings</string>
+    <string name="theme">Theme</string>
+    <string name="system_theme">System theme</string>
+    <string name="fill_all_fields">Fill all fields</string>
+    <string name="personal_data_saved">Personal data saved</string>
+    <string name="error_saving_data">Error saving data</string>
+    <string name="settings_saved_restart">Setting saved after restart</string>
+
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -50,24 +71,19 @@
     <string name="attachment_summary_on">Automatically download attachments for incoming emails
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
-    <string name="user_not_authorized">The user is not logged in</string>
-    <string name="error_user_data">User data error</string>
-    <string name="error_account_not_found">Account not found</string>
-    <string name="yes">Yes</string>
-    <string name="cancel">Cancel</string>
-    <string name="logout_title">Log out of your account</string>
-    <string name="logout_message">You will be logged out</string>
-    <string name="error_load_data">Data upload error</string>
-    <string name="logout_confirmation">Are you sure you want to get out?</string>
-    <string name="language">Language</string>
-    <string name="russian">Russian</string>
-    <string name="english">Еnglish</string>
-    <string name="personal_data">Personal data</string>
-    <string name="app_settings">App Settings</string>
-    <string name="theme">Theme</string>
-    <string name="system_theme">System theme</string>
-    <string name="fill_all_fields">Fill all fields</string>
-    <string name="personal_data_saved">Personal data saved</string>
-    <string name="error_saving_data">Error saving data</string>
-    <string name="settings_saved_restart">Setting saved after restart</string>
+    <string name="model_description">3D Model description</string>
+    <string name="attach_files">Attach files</string>
+    <string name="select_file">Select file</string>
+    <string name="your_contacts">Your contacts</string>
+    <string name="send_order">Send order</string>
+    <string name="login_to_autofill">Log in to fill in the contacts automatically.</string>
+    <string name="selected_file">The file is selected</string>
+    <string name="error_description_required">Enter a description of the model</string>
+    <string name="error_contacts_required">Enter your contact information</string>
+    <string name="error_file_required">Attach the drawing file</string>
+    <string name="order_success">The order has been successfully sent!</string>
+    <string name="order_error">Sending error: %s</string>
+    <string name="order_success_title">The order has been sent</string>
+    <string name="order_success_message">Your order for a 3D model has been successfully sent. We will contact you shortly.</string>
+    <string name="clear_notifications">Clear</string>
 </resources>

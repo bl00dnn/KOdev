@@ -45,4 +45,19 @@
     <string name="personal_data_saved">Данные сохранены</string>
     <string name="error_saving_data">Ошибка сохранение данных</string>
     <string name="settings_saved_restart">Настройки сохранены. Применятся после перезапуска</string>
+    <string name="model_description">Описание 3D модели</string>
+    <string name="attach_files">Прекрипить файл</string>
+    <string name="select_file">Выбрать файл</string>
+    <string name="your_contacts">Ваши данные</string>
+    <string name="send_order">Отправить заказ</string>
+    <string name="login_to_autofill">Войдите, чтобы автоматически заполнить контакты</string>
+    <string name="selected_file">Файл выбран</string>
+    <string name="error_description_required">Введите описание модели</string>
+    <string name="error_contacts_required">Введите контактные данные</string>
+    <string name="error_file_required">Прикрепите файл с чертежом</string>
+    <string name="order_success">Заказ успешно отправлен!</string>
+    <string name="order_error">Ошибка отправки: %s</string>
+    <string name="order_success_title">Заказ отправлен</string>
+    <string name="order_success_message">Ваш заказ на 3D-модель успешно отправлен. Мы свяжемся с вами в ближайшее время.</string>
+    <string name="clear_notifications">Очистить</string>
 </resources>
