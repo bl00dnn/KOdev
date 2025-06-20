@@ -44,6 +44,10 @@ android {
 }
 
 dependencies {
+    implementation(libs.retrofit2.retrofit)
+    implementation(libs.converter.gson)
+    implementation(libs.github.glide)
+    annotationProcessor(libs.compiler)
     implementation(libs.gson)
     implementation(libs.okhttp)
     implementation(libs.firebase.firestore.ktx)
